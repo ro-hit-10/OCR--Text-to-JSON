@@ -65,5 +65,5 @@ By leveraging **PP-OCRv5** and **PP-StructureV3**, the system extracts text, tab
 ### Option 1: Run on Google Colab
 Click below to open and run the notebook in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repo-name/blob/main/notebook.ipynb](https://colab.research.google.com/drive/1QFKQlXqu1CSJObOwNZq6apJ9NDT_bir1#scrollTo=Mfs-q3nfLcay))
 
